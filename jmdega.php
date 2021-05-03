@@ -28,9 +28,9 @@ function funcionInventada1($param1)
 
 
 
-  echo "Hola Mundo";
+  echo "Hola a todo el mundo";
 
-  $param2 = "Hola Mundo ".($param1);
+  $param2 = "Hola a todo el mundo ".($param1);
 
   return $param2;
 
